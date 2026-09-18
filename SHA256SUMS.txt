@@ -1,0 +1,10 @@
+172d60cfef0b370da384910a4a796d4cb7fc4df879b094fe5520303a71c6b497  libreoffice_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+797b450ed30d1a556b895d38662a4cacd607becac7b63ed605826815838a33ca  libreoffice-base-core_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+ecf92684c0c1aad00b82f15a6a2bae73d832fe199ecd81d238b385a4b808a87e  libreoffice-calc_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+ab5834e73cef5c29110762e2346ed4e2c68ab78ffd94bac808caa8762193e678  libreoffice-common_1%3a7.3.7-0ubuntu0.22.04.12_all.deb
+8793419401dc8a5572509f658e688a665f4229ea4dd981282b30f14e480ae687  libreoffice-core_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+72a21084a1e817105c585def675a91d4e0cef42690cbd21d1e2f2ea6dd09a611  libreoffice-draw_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+3a8ca335ad2d244e4af581dcb2dbc718c48af792e20794d426dc840c6c48ab5b  libreoffice-impress_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+1645934bcef5f981698ca04cf38782ad8a792ba25fd8e4acb09c1b60474f7db4  libreoffice-math_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+1cef8467f03bba5b7fba279f800b88c630293849383fbfe109d08aa3e99ae6b2  libreoffice-writer_1%3a7.3.7-0ubuntu0.22.04.12_amd64.deb
+0ed591b495abb6554d44135176ceb90e86baf236d030052e42663b0410bf381c  libreoffice-ubuntu22.04-amd64-rootfs.tar.gz
